@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Snoopy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ft.com%2Fcontent%2F9cc5f86a-dc9b-11e8-8f50-cbae5495d92b&psig=AOvVaw1QS9--BHGBXuRnpypxn9ak&ust=1590254008351000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLitvf37x-kCFQAAAAAdAAAAABAF)
