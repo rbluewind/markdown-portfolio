@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Python :+1: :+1: :+1:
+Matlab :+1: :+1: :+1:
+Data Analysis :+1: :+1: :+1:
